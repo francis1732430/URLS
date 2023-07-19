@@ -1,3 +1,11 @@
+--Reference project.
+  https://www.templatemonster.com/admin-templates.php
+  https://elements.envato.com/web-templates/admin-templates
+        --- lot pages there
+  https://athemes.com/collections/best-react-admin-templates/ --nothing design
+ecommerce examples https://preview.themeforest.net/item/lezada-react-next-js-multipurpose-ecommerce-template/full_screen_preview/26774919?_ga=2.78451356.941194453.1657655986-558692634.1655312703&_gac=1.221454954.1657656547.CjwKCAjwt7SWBhAnEiwAx8ZLalQSyeE4w82y_DuKQDhRI4jGPRB6EFGvStLx1pi3p8FhEUssgLQeHBoCFVgQAvD_BwE&irgwc=1&clickid=VtwV0v0GtxyPRewWvV2uHRMKUkFzaI3uF25lzo0&iradid=275988&irpid=2103470&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_2103470&utm_medium=affiliate&utm_source=impact_radius
+
+
 React Js.
          --UI admin dashboard
                              --- https://mui.com/store/collections/free-react-dashboard/
@@ -39,12 +47,31 @@ React Js.
                                      ---- https://github.com/themesberg/volt-react-dashboard
                                                 ----- custom calender,map
                                      ---- https://github.com/creativetimofficial/notus-react
-                                     ---- 
+                                     ---- https://github.com/Manogel/cra-template-veltrix-manogel/tree/master -suggest
+                                     ---- https://github.com/kroim/Veltrix/tree/main
+                           --- https://www.themexpert.com/blog/reactjs-admin-template
+                                     ---- https://github.com/knledg/react-blur-admin/tree/master
+                           --- https://github.com/orgs/creativetimofficial/repositories --good repo
+                                    ---- https://github.com/creativetimofficial/material-dashboard-react-nodejs/tree/master
+                           --- https://onaircode.com/free-react-admin-templates/ --- 20 design with github there
+                                    ---- https://github.com/booleanhunter/ReactJS-AdminLTE
+                           --- https://talkelement.com/best-free-react-admin-dashboard-templates/21436/
 
-
-
-
-
+           --E-commerce
+                   --- https://themeforest.net/search/react%20ecommerce?sort=rating#content
+                             ---- https://github.com/farhan-nahid/kacha-bazar
+                             ---- https://github.com/rdsoft06/stroyka-tools-store-react-ecommerce-template-23909258
+                   --- https://bonik-react.vercel.app/market-1
+                              ---- https://github.com/sunil9813/Bonik-Ecommerice-Website-in-React
+                   --- https://github.com/alejosilvalau/wokiee-ecommerce/tree/main
+                   --- https://github.com/jamstack-cms/jamstack-ecommerce/tree/next
+                        good for react with next project. serverless configuration there
+                   --- https://d-themes.com/react/molla/demo-1/shop/cart/
+                             ---- https://github.com/MiladSadeghi/molla-ecommerce-react/tree/master
+                   --- https://reactstorefronts.com/
+                             ---- https://github.com/AliTechGeek52/martfury-react/tree/master
+                   --- https://preview.themeforest.net/item/flone-react-js-ecommerce-template/full_screen_preview/25554712?_ga=2.183360046.941194453.1657655986-558692634.1655312703&_gac=1.262743806.1657656547.CjwKCAjwt7SWBhAnEiwAx8ZLalQSyeE4w82y_DuKQDhRI4jGPRB6EFGvStLx1pi3p8FhEUssgLQeHBoCFVgQAvD_BwE&clickid=VtwV0v0GtxyPRewWvV2uHRMKUkFzafQOF25lzo0&iradid=275988&iradtype=ONLINE_TRACKING_LINK&irgwc=1&irmptype=mediapartner&irpid=2103470&mp_value1=&utm_campaign=af_impact_radius_2103470&utm_medium=affiliate&utm_source=impact_radius
+                             ---- https://github.com/0xK3K/flone/tree/master
 
 
 
@@ -52,9 +79,29 @@ React Js.
 Angular
            --UI admin dashboard
                       --- https://github.com/id1945/skote-admin
+                      --- https://www.akveo.com/ngx-admin/themes
+                      --- https://github.com/akveo
+                               ----https://github.com/akveo/ngx-admin
+                      --- https://themesdesign.in/minible-symfony/?storefront=envato-elements#demos
+                               ---- https://github.com/rupeshsojitra21/Minible/tree/main
+                                        -----google maps,chat
 
 
 
 
 
+HTML
+          -- UI admin dashboard
+                    --- https://github.com/opensmarty/minton-admin-template/tree/master
+                              -----product list and details
+                     --- https://github.com/chia313339/Adminto_v5.1.0/tree/main
+                              ----- kanban boards there
 
+
+          --E-commerce
+                  --- https://themeforest.net/search/react%20ecommerce?sort=rating#content
+                              ---- https://github.com/bisofts/Stroyka-Tools-Store-HTML-Template
+                  --- http://ciyashop-react.potenzaglobalsolutions.com/
+                              ---- https://github.com/Muhammad-Irtiza01/ciyashop/tree/master
+                  --- https://d-themes.com/react/porto/demo1/
+                              ---- https://github.com/BhavaniKiran/Porto-ecommerce/tree/main
